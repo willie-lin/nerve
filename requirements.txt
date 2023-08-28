@@ -36,7 +36,7 @@ PyPDF2==1.26.0
 python-nmap==0.6.1
 pytz==2020.1
 redis==3.5.3
-reportlab==3.5.46
+reportlab==3.6.13
 requests==2.24.0
 simplejson==3.17.2
 six==1.15.0
